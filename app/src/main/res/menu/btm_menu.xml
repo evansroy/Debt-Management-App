@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homeFragment"/>
+    <item android:title="Customers"
+        android:icon="@drawable/ic_customers"
+        android:id="@+id/customersFragment"/>
+    <item android:title="Debtors"
+        android:icon="@drawable/ic_people"
+        android:id="@+id/debtorsFragment"/>
+
+
+</menu>
